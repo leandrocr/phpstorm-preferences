@@ -1,6 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="customScope" value="project-files-without-vendor" />
+    <option name="defaultScopeName" value="project-files-without-vendor" />
+    <option name="SEARCH_SCOPE" value="project-files-without-vendor" />
   </component>
 </application>
