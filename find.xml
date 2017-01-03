@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="no-vendor" />
-    <option name="defaultScopeName" value="no-vendor" />
+    <option name="customScope" value="no-vendor-log" />
+    <option name="defaultScopeName" value="no-vendor-log" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="no-vendor" />
+    <option name="SEARCH_SCOPE" value="no-vendor-log" />
   </component>
 </application>
