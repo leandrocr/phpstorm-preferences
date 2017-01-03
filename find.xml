@@ -1,9 +1,22 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="no-vendor-log" />
-    <option name="defaultScopeName" value="no-vendor-log" />
+    <option name="customScope" value="no-vendor-log-docker-ddb" />
+    <option name="defaultScopeName" value="no-vendor-log-docker-ddb" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="no-vendor-log" />
+    <option name="SEARCH_SCOPE" value="no-vendor-log-docker-ddb" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.phtml</mask>
+    </recentFileMasks>
   </component>
 </application>
